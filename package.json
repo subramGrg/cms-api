@@ -1,0 +1,5 @@
+{
+  "name": "cms-guest",
+  "private": true,
+  "dependencies": {}
+}
